@@ -41,7 +41,7 @@ There are two helpers (one on each side). The user has to meet both helpers to g
 
 **User**
 
-![alt text](http://octodex.github.com/images/Professortocat_v2.png "Layout")
+![alt text](img690.imageshack.us/img690/6356/userzg.png "User")
 
 
 ### B. How
