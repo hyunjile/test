@@ -90,7 +90,7 @@ Then the user has an option to close the game or the restart the game.
 
 ### E. Layout
 
-![alt text](http://octodex.github.com/images/Professortocat_v2.png "Layout")
+![alt text](board.png "Layout")
 
 The layout is self explanatory.
 
