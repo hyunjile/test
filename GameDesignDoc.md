@@ -19,7 +19,7 @@ The image of the wall with a hole is in the board/layout of the user interface s
 
 They will be on each side of the wall, acting as blocking obstacles for the user to move to either side. They can only move vertically (up and down) near the hole in the wall. The user loses a life if he/she fails to avoid it/them. The blockers cannot be killed with bullets.
 
-![alt text](http://octodex.github.com/images/Professortocat_v2.png "Layout")
+![alt text](http://img694.imageshack.us/img694/5311/blockerl.png "Blocker")
 
 **3. Hunter**
 
@@ -41,7 +41,7 @@ There are two helpers (one on each side). The user has to meet both helpers to g
 
 **User**
 
-![alt text](img690.imageshack.us/img690/6356/userzg.png "User")
+![alt text](http://img690.imageshack.us/img690/6356/userzg.png "User")
 
 
 ### B. How
