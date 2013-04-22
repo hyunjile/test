@@ -39,6 +39,10 @@ There are two helpers (one on each side). The user has to meet both helpers to g
 
 ![alt text](http://octodex.github.com/images/Professortocat_v2.png "Layout")
 
+**User**
+
+![alt text](http://octodex.github.com/images/Professortocat_v2.png "Layout")
+
 
 ### B. How
 
@@ -90,7 +94,7 @@ Then the user has an option to close the game or the restart the game.
 
 ### E. Layout
 
-![alt text](https://github.com/hyunjile/test.git/board.png "Layout")
+![alt text](http://imageshack.us/a/img201/2258/boardd.png "Layout")
 
 The layout is self explanatory.
 
