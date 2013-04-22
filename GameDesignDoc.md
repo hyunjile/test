@@ -90,7 +90,7 @@ Then the user has an option to close the game or the restart the game.
 
 ### E. Layout
 
-![alt text](http://imageshack.us/photo/my-images/201/boardd.png/ "Layout")
+![alt text](hyunjile.github.com/test/board.png "Layout")
 
 The layout is self explanatory.
 
