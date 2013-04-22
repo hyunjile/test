@@ -9,27 +9,32 @@ Milestone 5A
 ### A. Things
 
 **1. Wall with a hole**
+
 The board will be divided by a wall with a hole in the middle.
 The left side of the board will be written as 'O' and the right side will be 'X'.
 
 The image of the wall with a hole is in the board/layout of the user interface section (section E).
 
 **2. Two blockers**
+
 They will be on each side of the wall, acting as blocking obstacles for the user to move to either side. They can only move vertically (up and down) near the hole in the wall. The user loses a life if he/she fails to avoid it/them. The blockers cannot be killed with bullets.
 
 ![alt text](http://octodex.github.com/images/Professortocat_v2.png "Layout")
 
 **3. Hunter**
+
 There will be a hunter that tracks the user. It can move however to follow the user. Once it reaches the user, the user loses a life. The hunter has two lives. It can only be killed when the user uses both bullets to kill it.
 
 ![alt text](http://octodex.github.com/images/Professortocat_v2.png "Layout")
 
 **4. Guards**
+
 There will be guards (number not determined) on each side of the board. They move randomly.
 
 ![alt text](http://octodex.github.com/images/Professortocat_v2.png "Layout")
 
 **5. Two Helpers**
+
 There are two helpers (one on each side). The user has to meet both helpers to get a help. When the user collides with both of them, the helper randomly pick an enemy (blocker, hunter, or guard) and kills it for the user. The enemies cannot kill them. The helpers move diagonally. 
 
 ![alt text](http://octodex.github.com/images/Professortocat_v2.png "Layout")
@@ -61,9 +66,13 @@ The user will move using the keyboard.
 "up", "down", "right", "left" arrows and the space bar are used.
 
 "up"- the user moves up
+
 "down" - the user moves down
+
 "right" - the user moves right
+
 "left" - the user moves left
+
 space bar - the user shoots bullets
 
 ### C. Score
@@ -75,7 +84,7 @@ The user loses a point if he/she fails to answer correctly in time.
 
 The user has three lives.
 There will be a bar that indicates how many life the user has.
-The user loses a life if he/she hits a blocker, hunter, guard, and ___.
+The user loses a life if he/she hits a blocker, hunter, and guard.
 When all three lives are spent, the user dies and the game ends.
 Then the user has an option to close the game or the restart the game.
 
@@ -92,7 +101,9 @@ The statement and the time are on the top center.
 Then there is the board with 'O' and 'X' and the wall.
 
 The "play", "pause" buttons are on the bottom.
+
 "play" - plays the game
+
 "pause" - pauses the game
 
 The restart button that says "restart" is located on the left bottom.
