@@ -25,19 +25,19 @@ They will be on each side of the wall, acting as blocking obstacles for the user
 
 There will be a hunter that tracks the user. It can move however to follow the user. Once it reaches the user, the user loses a life. The hunter has two lives. It can only be killed when the user uses both bullets to kill it.
 
-![alt text](http://octodex.github.com/images/Professortocat_v2.png "Layout")
+![alt text](http://img705.imageshack.us/img705/7924/huntera.png "Hunter")
 
 **4. Guards**
 
 There will be guards (number not determined) on each side of the board. They move randomly.
 
-![alt text](http://octodex.github.com/images/Professortocat_v2.png "Layout")
+![alt text](http://img441.imageshack.us/img441/3418/guardq.png "Guard")
 
 **5. Two Helpers**
 
 There are two helpers (one on each side). The user has to meet both helpers to get a help. When the user collides with both of them, the helper randomly pick an enemy (blocker, hunter, or guard) and kills it for the user. The enemies cannot kill them. The helpers move diagonally. 
 
-![alt text](http://octodex.github.com/images/Professortocat_v2.png "Layout")
+![alt text](http://img844.imageshack.us/img844/2470/helperf.png "Layout")
 
 **User**
 
